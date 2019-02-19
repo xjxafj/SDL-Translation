@@ -7,7 +7,7 @@ using Sdl.TranslationStudioAutomation.IntegrationApi.Extensions;
 
 namespace SDL_Verification
 {
-    class MyCustomTradosStudio
+    public class MyCustomTradosStudio
     {
     }
 }
