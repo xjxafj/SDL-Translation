@@ -68,10 +68,6 @@
     <Reference Include="WindowsBase" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="code\SimpleTextFilterComponentBuilder.cs" />
-    <Compile Include="code\SimpleTextParser.cs" />
-    <Compile Include="code\SimpleTextSniffer.cs" />
-    <Compile Include="code\SimpleTextWriter.cs" />
     <Compile Include="MyTranslationProviderWinFormsUI.cs" />
     <Compile Include="MyTranslationProviderLanguageDirection.cs" />
     <Compile Include="MyTranslationProvider.cs" />
@@ -91,6 +87,9 @@
   </ItemGroup>
   <ItemGroup>
     <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="code\" />
   </ItemGroup>
   <PropertyGroup>
     <CreatePluginPackage>true</CreatePluginPackage>
