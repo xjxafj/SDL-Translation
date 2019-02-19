@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <PluginPackage xmlns="http://www.sdl.com/Plugins/PluginPackage/1.0">
-  <PlugInName>SDL Translation</PlugInName>
+  <PlugInName>SDL Verification</PlugInName>
   <Version>1.0</Version>
   <Description>Plugin description</Description>
-  <Author>fj</Author>
+  <Author></Author>
   <RequiredProduct name="SDLTradosStudio" minversion="15.0" maxversion="20.0"/>
 </PluginPackage>
